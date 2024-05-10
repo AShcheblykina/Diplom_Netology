@@ -130,7 +130,8 @@
 
 ## Окружение
 1. Разработка: Honor MagicBook Pro, 16-inch, AMD Ryzen 7 7840HS, 16GB RAM, 512Gb SSD, Windows 11 x64 Pro
-2. Эмулятор: Pixel 4 API 30
+2. Разработка: MacBook Pro M2, 16-inch, 16GB RAM, 1TB SSD, macOS Sonoma 14
+3. Эмулятор: Pixel 4 API 30
 
 ## План тестирования функционала
 1. Авторизация
