@@ -101,7 +101,7 @@
 - Тестирование пользовательского интерфейса - ручное тестирование.
 
 ## Документация: 
-- [чек-лист](https://github.com/AShcheblykina/Diplom_Netology/blob/main/%D0%A1heck%20list.xlsx);
+- [чек-лист](https://github.com/AShcheblykina/Diplom_Netology/blob/main/%D0%A1heckList.xlsx);
 - [тест-кейс](https://github.com/AShcheblykina/Diplom_Netology/blob/main/TestCase.xlsx).
 
 ## Перечень используемых инструментов:
